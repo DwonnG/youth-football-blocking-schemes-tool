@@ -2,6 +2,12 @@
 
 An interactive, single-file web application designed to teach offensive line blocking schemes to youth football players and coaches.
 
+<div align="center">
+  <img width="466" height="645" alt="Football Blocking Schemes Tool Demo" src="https://github.com/user-attachments/assets/37eb52f6-dd89-4323-8b04-d3f18a20c915" />
+  <br>
+  <em>Interactive blocking schemes tool showing 3-4 defense formation</em>
+</div>
+
 ## 🚀 Quick Start
 
 1. **Download** `blocking_schemes.html`
